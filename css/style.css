@@ -1,0 +1,62 @@
+*{
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.centrar{
+    background-color: rgb(234, 234, 234);
+    display: flex;
+    justify-content: center
+}
+nav{margin: 15px 0px 15px 0px;
+    gap: 2rem;
+}
+h1{
+    font-family: 'Amatic SC', cursive;
+
+}
+.button{
+    text-decoration: none;
+    color: darkgoldenrod;
+    width: 8rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.button:hover{
+    border: 1px rgb(140, 130, 84) solid;
+    width: 8.5rem;
+    height: 2.5rem;
+}
+.titulo_slide{
+    background-color: rgb(234, 234, 234);
+    font-size: 100px;
+}
+.fondo{
+    text-align: center;
+    background-image: url(../images/bird-gefe3bf964_1920.jpg);
+     background-size: 100%;
+     background-repeat: no-repeat;
+     background-position: center;
+     height: 100vh;
+}
+.caja1{
+    text-align: center;
+    background-color: #a28777;
+    height: 15 rem;
+
+}
+.button2{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    width: 8rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.button2:hover{
+    border: 1px rgb(37, 36, 107) solid;
+    width: 8.5rem;
+    height: 2.5rem;
+}
